@@ -1,0 +1,28 @@
+{
+  "name": "promise-to",
+  "version": "0.0.1",
+  "description": "Keep your promises. Always return a promise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do0g/promise-to.git"
+  },
+  "keywords": [
+    "Promise",
+    "Promises",
+    "Node",
+    "Javascript",
+    "JS",
+    "ES2015",
+    "ES6"
+  ],
+  "author": "do0g <do0g.dev@gmail.com> (http://www.mothdust.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/do0g/promise-to/issues"
+  },
+  "homepage": "https://github.com/do0g/promise-to#readme"
+}
